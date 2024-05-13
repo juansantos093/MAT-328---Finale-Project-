@@ -12,3 +12,5 @@ Content rating - The content refers to the classification where the movie is rat
 Genre  - Refers to the classification of the movie if it is a Crime, Action, Drama, etc 
 
 The Content Rating and Genre are qualitative data while the Duration and the Star Rating are quantitative data, Also the data frame has a total of   979 rows 
+
+https://sites.google.com/d/1wdgg0iXuvE__pAvEERTTm5QwTmHs6g2p/p/14eBLZTdgwCESiYOmomx_ydZjcVCkzZGh/edit#
