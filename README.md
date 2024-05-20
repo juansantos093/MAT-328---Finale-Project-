@@ -13,4 +13,4 @@ Genre  - Refers to the classification of the movie if it is a Crime, Action, Dra
 
 The Content Rating and Genre are qualitative data while the Duration and the Star Rating are quantitative data, Also the data frame has a total of   979 rows 
 
-https://sites.google.com/d/1wdgg0iXuvE__pAvEERTTm5QwTmHs6g2p/p/14eBLZTdgwCESiYOmomx_ydZjcVCkzZGh/edit#
+https://sites.google.com/view/mat-328-finale-project-movies/home
